@@ -1,0 +1,23 @@
+{
+  "name": "fixscript",
+  "version": "1.0.0",
+  "description": "script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iisfish123/fixScript.git"
+  },
+  "author": "lkz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iisfish123/fixScript/issues"
+  },
+  "homepage": "https://github.com/iisfish123/fixScript#readme",
+  "dependencies": {
+    "cron": "^2.4.4",
+    "js-yaml": "^4.1.0"
+  }
+}
